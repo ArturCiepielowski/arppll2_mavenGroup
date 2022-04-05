@@ -2,7 +2,7 @@ package pl.sda.arppl;
 
 import java.util.Scanner;
 
-public class KlasaAla { public static void main(String[] args) {
+public class KlasaAla2 { public static void main(String[] args) {
 
     Scanner scanner = new Scanner(System.in);
 
